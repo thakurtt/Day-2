@@ -1,1 +1,2 @@
 This is the 2nd file to be added to remote repository.
+addition in the second line
